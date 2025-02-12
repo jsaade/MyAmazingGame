@@ -18,6 +18,6 @@ public class ButtonScript : MonoBehaviour
 
     public void ButtonIsClicked()
     {
-        Debug.Log("button 1 clicked");
+       Debug.Log("button clicked 1");
     }
 }
