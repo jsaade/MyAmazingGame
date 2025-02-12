@@ -9,5 +9,19 @@ public class ButtonScript : MonoBehaviour
     void Start()
     {
     }
+
+    public void OnClick()
+    {
+        
+        //do something!
+        Debug.Log("button clicked 212121211");
+    }
+
+    public void OnClick2()
+    {
+        
+        //do something!
+        Debug.Log("button clicked");
+    }
 }
 
