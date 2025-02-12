@@ -14,6 +14,13 @@ public class ButtonScript : MonoBehaviour
     {
         
         //do something!
-        Debug.Log("button clicked 1");
+        Debug.Log("button clicked 212121211");
+    }
+
+    public void OnClick2()
+    {
+        
+        //do something!
+        Debug.Log("button clicked");
     }
 }
